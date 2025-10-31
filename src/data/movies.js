@@ -49,7 +49,7 @@ const movies = [
     title: 'Frozen II',
     image: '/img/fro.jpeg',
     banner: '/img/fro2.jpg',
-    link: 'https://jilohd.com/movie/watch-frozen-ii-34769/',
+    link: 'https://jilohd.com/movie/watch-frozen-ii-5868/',
     genre: 'Animation, Adventure, Comedy, Family, Fantasy, Musical',
     description:
       'Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest in an enchanted land. They set out to find the origin of Elsa’s powers to save their kingdom.',
@@ -64,7 +64,7 @@ const movies = [
     title: 'The Lion King',
     image: '/img/lk.jpg',
     banner: '/img/lk2.avif',
-    link: 'https://jilohd.com/movie/watch-the-lion-king-408/',
+    link: 'https://jilohd.com/movie/watch-the-lion-king-19472/',
     genre: 'Animation, Adventure, Drama, Family, Musical',
     description:
       'After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.',
@@ -79,7 +79,7 @@ const movies = [
     title: 'Guardians of the Galaxy Vol. 3',
     image: '/img/gg.jpg',
     banner: '/img/gg2.jpg',
-    link: 'https://jilohd.com/movie/watch-guardians-of-the-galaxy-vol-3-74596/',
+    link: 'https://jilohd.com/movie/watch-guardians-of-the-galaxy-vol-3-12459/',
     genre: 'Action, Adventure, Comedy, Sci-Fi',
     description:
       'Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and protect one of their own.',
@@ -94,7 +94,7 @@ const movies = [
     title: 'Minions: The Rise of Gru',
     image: '/img/mi.jpg',
     banner: '/img/mi2.jpg',
-    link: 'https://jilohd.com/movie/watch-minions-the-rise-of-gru-69314/',
+    link: 'https://jilohd.com/movie/watch-minions-the-rise-of-gru-82060/',
     genre: 'Animation, Adventure, Comedy, Family',
     description:
       'A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them.',
